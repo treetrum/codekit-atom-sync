@@ -1,10 +1,10 @@
 {
   "name": "codekit-atom-sync",
   "main": "./lib/codekit-atom-sync",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "CodeKit Sync Plugin for Atom",
   "keywords": [
-      "CodeKit"
+    "CodeKit"
   ],
   "activationCommands": {},
   "repository": "https://github.com/treetrum/codekit-atom-sync",
