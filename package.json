@@ -2,7 +2,7 @@
   "name": "codekit-atom-sync",
   "main": "./lib/codekit-atom-sync",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "CodeKit Sync Plugin for Atom",
   "keywords": [
   ],
   "activationCommands": {

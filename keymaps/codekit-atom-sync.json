@@ -1,5 +1,5 @@
 {
-  "atom-workspace": {
-    "ctrl-alt-o": "codekit-atom-sync:toggle"
-  }
+    "atom-workspace": {
+        "ctrl-alt-o": "codekit-atom-sync:toggle"
+    }
 }
