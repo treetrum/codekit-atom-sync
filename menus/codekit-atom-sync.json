@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle codekit-atom-sync",
+        "command": "codekit-atom-sync:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "codekit-atom-sync",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "codekit-atom-sync:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
