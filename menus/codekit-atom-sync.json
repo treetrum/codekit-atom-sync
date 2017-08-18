@@ -10,9 +10,14 @@
         "submenu": [{
             "label": "CodeKit Atom Sync",
             "submenu": [{
-                "label": "Add project to CodeKit",
-                "command": "codekit-atom-sync:add-project-to-codekit"
-            }]
+                    "label": "Open CodeKit",
+                    "command": "codekit-atom-sync:open-codekit"
+                },
+                {
+                    "label": "Add project to CodeKit",
+                    "command": "codekit-atom-sync:add-project-to-codekit"
+                }
+            ]
         }]
     }]
 }
