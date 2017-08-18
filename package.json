@@ -7,7 +7,7 @@
       "CodeKit"
   ],
   "activationCommands": {},
-  "repository": "https://github.com/atom/codekit-atom-sync",
+  "repository": "https://github.com/treetrum/codekit-atom-sync",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
