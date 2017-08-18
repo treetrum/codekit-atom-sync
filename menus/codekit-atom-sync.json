@@ -1,9 +1,14 @@
 {
     "context-menu": {
         "atom-text-editor": [{
-            "label": "Add project to CodeKit",
-            "command": "codekit-atom-sync:add-project-to-codekit"
-        }]
+                "label": "Open CodeKit",
+                "command": "codekit-atom-sync:open-codekit"
+            },
+            {
+                "label": "Add project to CodeKit",
+                "command": "codekit-atom-sync:add-project-to-codekit"
+            }
+        ]
     },
     "menu": [{
         "label": "Packages",
