@@ -2,7 +2,7 @@
   "name": "codekit-atom-sync",
   "main": "./lib/codekit-atom-sync",
   "version": "0.2.0",
-  "description": "CodeKit Sync Plugin for Atom",
+  "description": "Automatically switch between projects in CodeKit",
   "keywords": [
     "CodeKit"
   ],
