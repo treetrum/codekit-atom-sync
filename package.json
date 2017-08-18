@@ -4,15 +4,16 @@
   "version": "0.0.0",
   "description": "CodeKit Sync Plugin for Atom",
   "keywords": [
+      "CodeKit"
   ],
-  "activationCommands": {
-    "atom-workspace": "codekit-atom-sync:toggle"
-  },
+  "activationCommands": {},
   "repository": "https://github.com/atom/codekit-atom-sync",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+    "file-exists": "^4.0.0",
+    "node-osascript": "^2.0.0"
   }
 }
