@@ -1,7 +1,7 @@
 {
   "name": "codekit-atom-sync",
   "main": "./lib/codekit-atom-sync",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Automatically switch between projects in CodeKit",
   "keywords": [
     "CodeKit"
