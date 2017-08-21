@@ -14,6 +14,12 @@ If no config file is found, nothing will happen. You can add your current projec
 
 ___
 
+### Bugs / Issues
+
+If you encounter any issues please [let me know here](https://github.com/treetrum/codekit-atom-sync/issues) or create a pull request with a fix.
+
+___
+
 ### License
 
 The plugin and this source code are released under the MIT License.
