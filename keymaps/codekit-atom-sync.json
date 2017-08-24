@@ -1,5 +1,6 @@
 {
     "atom-workspace": {
-        "ctrl-alt-c": "codekit-atom-sync:toggle-codekit-atom-sync"
+        "ctrl-alt-c": "codekit-atom-sync:toggle-codekit-atom-sync",
+        "ctrl-alt-/": "codekit-atom-sync:add-project-to-codekit"
     }
 }
