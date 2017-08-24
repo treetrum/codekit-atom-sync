@@ -28,6 +28,10 @@
                     "command": "codekit-atom-sync:open-codekit"
                 },
                 {
+                    "label": "Open CodeKit Preview Server",
+                    "command": "codekit-atom-sync:open-preview-server"
+                },
+                {
                     "label": "Toggle CodeKit Atom Sync",
                     "command": "codekit-atom-sync:toggle-codekit-atom-sync"
                 }
