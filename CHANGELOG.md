@@ -1,4 +1,9 @@
-## 0.1.1 - First Release
+## 1.0.0
+* Add ability to pause plugin with `toggle-codekit-atom-sync`
+* Add ability to open CodeKit preview server
+* Add ability to launch CodeKit
+
+## 0.1.1
 
 #### New
 * New Action: "Open CodeKit"

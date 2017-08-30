@@ -10,7 +10,26 @@ ___
 
 Anytime you open a directory in Atom, this plugin looks for a CodeKit config file. If one is found, the plugin will switch to that project in CodeKit.
 
-If no config file is found, nothing will happen. You can add your current project to CodeKit by selecting `Packages > CodeKit Atom Sync > Add Project To CodeKit`
+If no config file is found, nothing will happen.
+
+___
+
+### Features
+
+With CodeKit Atom Sync you can control CodeKit in a variety of ways with simple Atom commands:
+
+- Add your current Atom working folder to CodeKit: `add-project-to-codekit`
+- Launch CodeKit: `open-codekit`
+- Open the CodeKit preview server: `open-codekit-preview-server`
+
+Additionally, you can temporarily pause CodeKit Atom Sync with the command:
+
+`toggle-codekit-atom-sync`
+
+This is useful when you want to have multiple project windows open at once.
+
+
+You can add your current project to CodeKit by selecting `Packages > CodeKit Atom Sync > Add Project To CodeKit`
 
 ___
 
